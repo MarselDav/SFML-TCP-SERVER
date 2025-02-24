@@ -1,0 +1,11 @@
+width
+1000
+height
+500
+maxlen
+150
+cursorradius
+20
+cellsize
+50
+
